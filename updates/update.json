@@ -1,7 +1,7 @@
 {
-  "version": "1.4.43",
-  "zip": "https://github.com/munanoorrami-afk/waymark-updates/releases/download/v1.4.43/stridekin-1.4.43.zip",
-  "checksum": "ba12d1773ea42e296dc4198ab4ae91858b615657da8a8b33f8c7ceb809982fc5",
+  "version": "1.4.44",
+  "zip": "https://github.com/munanoorrami-afk/waymark-updates/releases/download/v1.4.44/stridekin-1.4.44.zip",
+  "checksum": "de406d5163f4d8a000abe10f808c2338600fb00033f1e291c30eda7b60e754f3",
   "minNative": "1.3.0",
-  "published": "2026-10-20T07:22:09Z"
+  "published": "2026-10-21T05:49:37Z"
 }
